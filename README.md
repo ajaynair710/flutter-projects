@@ -1,2 +1,4 @@
-# flutter-projects
-Basic flutter projects for practise purpose
+# Basic Flutter Applications
+Basic flutter projects for learning purpose
+
+1. Login Activity Page
