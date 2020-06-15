@@ -5,5 +5,5 @@ Basic flutter projects for learning purpose
 2. Calculator
 3. Basic Chat Application
 4. Simple Calculator
-5. weather app
+5. Weather app
 
